@@ -1,22 +1,16 @@
-import React from 'react';  
-import './App.css';
-import HelloWorld from './HelloWorld';
-import UserInfo from './UserInfo';
-import ColoredSentence from './ColoredSentence';
-
+import React from 'react';
+import Counter from './Counter';
+import UserForm from './UserForm';
+import Parent from './Parent';
 
 function App() {
   return (
-    <div style={{ padding: '1rem' }}>
-      <HelloWorld />
-
+    <div>
+      <Counter />
       <hr />
-
-      <UserInfo />
-
+      <UserForm />
       <hr />
-
-      <ColoredSentence />
+      <Parent />
     </div>
   );
 }
