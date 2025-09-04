@@ -1,16 +1,11 @@
-import React from 'react';
-import Counter from './Counter';
-import UserForm from './UserForm';
-import Parent from './Parent';
+import NameParent from "./NameParent";
+import CounterParent from "./CounterParent";
 
 function App() {
   return (
-    <div>
-      <Counter />
-      <hr />
-      <UserForm />
-      <hr />
-      <Parent />
+    <div style={{ textAlign: "center" }}>
+      <NameParent />
+      <CounterParent />
     </div>
   );
 }
