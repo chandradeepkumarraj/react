@@ -14,10 +14,12 @@
 
 ## Asignment 2 React States
     - Q1: Create a React functional component called Counter that maintains a state variable count. Add two buttons to increment and decrement the count. 
-    
+
     - Q2 : Build a UserForm component with state variables for name and email. Display the entered values in real-time below the form inputs. 
     
     - Q3: Create two components: Parent and Child. The child component should have an input field, and its value should be updated in the parent component’s state.
+
+    ![Assignment2](https://github.com/chandradeepkumarraj/react/tree/f2faccc396fb7b94bf560bb08fbbddb856ce76f7/assignment_2/assignment_2.png)
 
 ## Asignment 3 React Components
     - Q1: Create a ParentComponent that maintains a user's name in its state. Pass this name as a prop to a ChildComponent, which displays it inside a heading (h2). 
