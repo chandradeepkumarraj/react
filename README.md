@@ -19,13 +19,14 @@
     
     - Q3: Create two components: Parent and Child. The child component should have an input field, and its value should be updated in the parent component’s state.
 
-![Assignment2](https://github.com/chandradeepkumarraj/react/assignment_2/assignment_2.png)
+![Assignment2](./assignment_2/assignment_2.png)
 
 ## Asignment 3 React Components
     - Q1: Create a ParentComponent that maintains a user's name in its state. Pass this name as a prop to a ChildComponent, which displays it inside a heading (h2). 
 
-    - Q2 : Create a ParentComponent that maintains a counter value in its state. Implement a ChildComponent that contains two buttons: Increment and Decrement. When these buttons are clicked, the ParentComponent’s state should update accordingly
+    - Q2 : Create a ParentComponent that maintains a counter value in its state. Implement a ChildComponent that contains two buttons: Increment and Decrement. When these buttons are clicked, the ParentComponent’s state should update accordingly.
 
+![Assignment3](./assignment_3/assignment3.png)
 
 
 
