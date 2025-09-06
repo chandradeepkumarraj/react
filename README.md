@@ -42,7 +42,7 @@
           This function should return a string in the format: "User [name] is [age] years old."
           Inside the JSX, call this function with sample values ("Akash", 25) and display the message inside a <p> tag.
 
-![Assignment3](./assignment_4/assignment4.png)
+![Assignment4](./assignment_4/assignment4.png)
 
 
 
