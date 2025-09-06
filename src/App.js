@@ -1,11 +1,15 @@
-import NameParent from "./NameParent";
-import CounterParent from "./CounterParent";
+import Greeting from "./Greeting";
+import ProductPrice from "./ProductPrice";
+import UserProfile from "./UserProfile";
 
 function App() {
   return (
     <div style={{ textAlign: "center" }}>
-      <NameParent />
-      <CounterParent />
+      <Greeting />
+      <hr ></hr>
+      <ProductPrice />
+      <hr ></hr>
+      <UserProfile />
     </div>
   );
 }
