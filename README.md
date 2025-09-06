@@ -28,6 +28,22 @@
 
 ![Assignment3](./assignment_3/assignment3.png)
 
+## Asignment4$ React Function
+    
+    - Q1: Create a React component named Greeting that defines a function called
+        getMessage(). This function should return a string "Hello, welcome to React!",
+        Inside the JSX, invoke this function and display the message inside an <h1> tag.
+  
+    - Q2 : Create a React component called ProductPrice.
+          Define a function calculateDiscount(price, discountPercent) that calculates and returns the final price after discount.
+          Inside JSX, call this function with price = 500 and discountPercent = 10, then interpolate the returned value inside an <h3> tag.
+  
+    - Q3: Create a React component named UserProfile that has a function called getUserinfoName, age)
+          This function should return a string in the format: "User [name] is [age] years old."
+          Inside the JSX, call this function with sample values ("Akash", 25) and display the message inside a <p> tag.
+
+![Assignment3](./assignment_4/assignment4.png)
+
 
 
 
