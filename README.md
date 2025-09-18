@@ -28,7 +28,7 @@
 
 ![Assignment3](./assignment_3/assignment3.png)
 
-## Asignment4$ React Function
+## Asignment4 React Function
     
     - Q1: Create a React component named Greeting that defines a function called
         getMessage(). This function should return a string "Hello, welcome to React!",
@@ -44,6 +44,19 @@
 
 ![Assignment4](./assignment_4/assignment4.png)
 
+## Assignment 5 React Form
+
+- Q1: Create a React form with a single input field for a username. Ensure that the field is
+    required, and display an error message if left empty.
+- Q2 : Create a form with an email input field. Use a regular expression to validate the
+    email format and display an error if invalid.
+- Q3 : Create a form with a password field that requires at least 8 characters, including at
+    least one number and one special character.
+- Q4 : Create a form where the user enters their age. Ensure the age is between 18 and
+    60, otherwise display an error.
+- Q5 : Create a form where a user enters a password and confirms it. Display an error if
+    the passwords do not match.
+![Assignment5](./assignment_5/assignment5.png)
 
 
 
